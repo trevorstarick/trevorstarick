@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Currently an IT Developer @ Ubisoft Montreal
+
+[trevorstarick.com](https://trevorstarick.com) / [@trevorstarick](https://twitter.com/trevorstarick)
+
 <!--
 **trevorstarick/trevorstarick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
