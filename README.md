@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently an IT Developer @ Ubisoft Montreal
+Currently doing IT Development using K8S+Docker
 
 [trevorstarick.com](https://trevorstarick.com) / [@trevorstarick](https://twitter.com/trevorstarick)
 
