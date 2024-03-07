@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Currently doing IT Development using K8S+Docker
+Currently doing IT Development @ubisoft using Go, k8s, and Docker
 
 [trevorstarick.com](https://trevorstarick.com) / [@trevorstarick](https://twitter.com/trevorstarick)
 
